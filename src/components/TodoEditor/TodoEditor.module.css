@@ -1,0 +1,22 @@
+.form {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+  justify-content: center;
+}
+
+.input {
+  padding: 8px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  min-width: 240px;
+}
+
+.button {
+  padding: 8px 12px;
+  border-radius: 4px;
+  background: var(--accent);
+  color: white;
+  border: none;
+  cursor: pointer;
+}

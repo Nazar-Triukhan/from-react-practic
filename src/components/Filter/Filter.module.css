@@ -1,0 +1,9 @@
+/* Styles for Filter component */
+.input {
+  padding: 8px 10px;
+  font-size: 16px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
